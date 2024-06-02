@@ -13,3 +13,14 @@ body .container {
 body .mycheckbox {
     margin: 0 0 0 10px;
 }
+
+#api_status {
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #cccccc;
+}
